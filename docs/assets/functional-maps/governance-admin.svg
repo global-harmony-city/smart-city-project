@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200" fill="none">
+  <!-- 背景 -->
+  <rect width="800" height="1200" fill="#F9FAFB"/>
+  
+  <!-- ヘッダー部分 -->
+  <rect x="50" y="30" width="700" height="100" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="70" font-family="sans-serif" font-size="28" font-weight="bold" fill="#4338CA" text-anchor="middle">グローバル・ハーモニー・シティ</text>
+  <text x="400" y="105" font-family="sans-serif" font-size="20" fill="#6366F1" text-anchor="middle">統治・行政機能のビジュアルガイド</text>
+  
+  <!-- 基本コンセプト -->
+  <rect x="50" y="160" width="700" height="220" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="160" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="186" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">私たちの統治・行政の基本コンセプト</text>
+  
+  <!-- コンセプト1 -->
+  <circle cx="170" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="170" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">人</text>
+  <text x="170" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">人間中心の行政</text>
+  <text x="170" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle" width="150">テクノロジーは手段であり、</text>
+  <text x="170" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">人間の幸福が目的</text>
+  
+  <!-- コンセプト2 -->
+  <circle cx="400" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="400" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">参</text>
+  <text x="400" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">市民参加型の自治</text>
+  <text x="400" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">市民が主役の分散型</text>
+  <text x="400" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">ガバナンスモデル</text>
+  
+  <!-- コンセプト3 -->
+  <circle cx="630" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="630" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">百</text>
+  <text x="630" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">100年先を見据えた視点</text>
+  <text x="630" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">未来世代への責任を</text>
+  <text x="630" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">果たす意思決定</text>
+  
+  <!-- 市民と行政の関わり図 -->
+  <rect x="50" y="410" width="700" height="380" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="410" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="436" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">市民と行政の新しい関わり方</text>
+  
+  <!-- 中央円と接続線 -->
+  <circle cx="400" cy="580" r="60" fill="#ECFDF5" stroke="#10B981" stroke-width="3"/>
+  <text x="400" y="575" font-family="sans-serif" font-size="18" font-weight="bold" fill="#047857" text-anchor="middle">市民</text>
+  <text x="400" y="595" font-family="sans-serif" font-size="14" fill="#047857" text-anchor="middle">主役</text>
+  
+  <!-- 上部：情報提供 -->
+  <circle cx="400" cy="470" r="40" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="400" y="475" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2563EB" text-anchor="middle">情報提供</text>
+  <line x1="400" y1="510" x2="400" y2="520" stroke="#3B82F6" stroke-width="2" stroke-dasharray="5 3"/>
+  <path d="M400 530 L405 520 L395 520 Z" fill="#3B82F6"/>
+  
+  <!-- 右部：サービス利用 -->
+  <circle cx="530" cy="580" r="40" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="530" y="575" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7C3AED" text-anchor="middle">サービス</text>
+  <text x="530" y="595" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7C3AED" text-anchor="middle">利用</text>
+  <line x1="460" y1="580" x2="480" y2="580" stroke="#8B5CF6" stroke-width="2" stroke-dasharray="5 3"/>
+  <path d="M490 580 L480 585 L480 575 Z" fill="#8B5CF6"/>
+  
+  <!-- 下部：政策提案 -->
+  <circle cx="400" cy="690" r="40" fill="#FFFBEB" stroke="#F59E0B" stroke-width="2"/>
+  <text x="400" y="685" font-family="sans-serif" font-size="14" font-weight="bold" fill="#D97706" text-anchor="middle">政策提案</text>
+  <text x="400" y="705" font-family="sans-serif" font-size="14" font-weight="bold" fill="#D97706" text-anchor="middle">評価</text>
+  <line x1="400" y1="640" x2="400" y2="640" stroke="#F59E0B" stroke-width="2" stroke-dasharray="5 3"/>
+  <path d="M400 650 L395 640 L405 640 Z" fill="#F59E0B"/>
+  
+  <!-- 左部：意思決定参加 -->
+  <circle cx="270" cy="580" r="40" fill="#FEF2F2" stroke="#EF4444" stroke-width="2"/>
+  <text x="270" y="575" font-family="sans-serif" font-size="14" font-weight="bold" fill="#DC2626" text-anchor="middle">意思決定</text>
+  <text x="270" y="595" font-family="sans-serif" font-size="14" font-weight="bold" fill="#DC2626" text-anchor="middle">参加</text>
+  <line x1="340" y1="580" x2="320" y2="580" stroke="#EF4444" stroke-width="2" stroke-dasharray="5 3"/>
+  <path d="M310 580 L320 575 L320 585 Z" fill="#EF4444"/>
+  
+  <!-- 説明テキスト -->
+  <rect x="100" y="730" width="285" height="40" rx="5" fill="#EFF6FF"/>
+  <text x="110" y="755" font-family="sans-serif" font-size="12" fill="#1E40AF">リアルタイムで都市データが可視化され、必要な情報が届く</text>
+  
+  <rect x="415" y="730" width="285" height="40" rx="5" fill="#F5F3FF"/>
+  <text x="425" y="755" font-family="sans-serif" font-size="12" fill="#5B21B6">個人に最適化されたサービスが24時間365日利用可能</text>
+  
+  <rect x="100" y="780" width="285" height="40" rx="5" fill="#FEF2F2"/>
+  <text x="110" y="805" font-family="sans-serif" font-size="12" fill="#991B1B">ブロックチェーン技術で透明性の高い投票や意思決定</text>
+  
+  <rect x="415" y="780" width="285" height="40" rx="5" fill="#FFFBEB"/>
+  <text x="425" y="805" font-family="sans-serif" font-size="12" fill="#92400E">市民のアイデアを政策に反映するオープンプラットフォーム</text>
+  
+  <!-- デジタルサービス -->
+  <rect x="50" y="820" width="700" height="350" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="820" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="846" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">主要デジタルサービス</text>
+  
+  <!-- サービス1 -->
+  <rect x="80" y="880" width="300" height="120" rx="8" fill="white" stroke="#0D9488" stroke-width="2"/>
+  <rect x="80" y="880" width="300" height="30" fill="#F0FDFA" rx="8"/>
+  <circle cx="95" cy="895" r="10" fill="#14B8A6"/>
+  <text x="120" y="900" font-family="sans-serif" font-size="14" font-weight="bold" fill="#0F766E">マイシティポータル</text>
+  <text x="95" y="925" font-family="sans-serif" font-size="12" fill="#6B7280">• パーソナライズされたダッシュボード</text>
+  <text x="95" y="945" font-family="sans-serif" font-size="12" fill="#6B7280">• ライフイベントに応じたサポート</text>
+  <text x="95" y="965" font-family="sans-serif" font-size="12" fill="#6B7280">• ワンストップの行政手続き</text>
+  <text x="95" y="985" font-family="sans-serif" font-size="12" fill="#6B7280">• 重要書類の安全な保管</text>
+  
+  <!-- サービス2 -->
+  <rect x="420" y="880" width="300" height="120" rx="8" fill="white" stroke="#2563EB" stroke-width="2"/>
+  <rect x="420" y="880" width="300" height="30" fill="#EFF6FF" rx="8"/>
+  <circle cx="435" cy="895" r="10" fill="#3B82F6"/>
+  <text x="460" y="900" font-family="sans-serif" font-size="14" font-weight="bold" fill="#1D4ED8">AIアシスタント「ハーモニー」</text>
+  <text x="435" y="925" font-family="sans-serif" font-size="12" fill="#6B7280">• 24時間365日の質問対応</text>
+  <text x="435" y="945" font-family="sans-serif" font-size="12" fill="#6B7280">• 自然な対話での手続きガイド</text>
+  <text x="435" y="965" font-family="sans-serif" font-size="12" fill="#6B7280">• 多言語対応（10言語以上）</text>
+  <text x="435" y="985" font-family="sans-serif" font-size="12" fill="#6B7280">• 人間スタッフへのスムーズな引継ぎ</text>
+  
+  <!-- サービス3 -->
+  <rect x="80" y="1020" width="300" height="120" rx="8" fill="white" stroke="#059669" stroke-width="2"/>
+  <rect x="80" y="1020" width="300" height="30" fill="#ECFDF5" rx="8"/>
+  <circle cx="95" cy="1035" r="10" fill="#10B981"/>
+  <text x="120" y="1040" font-family="sans-serif" font-size="14" font-weight="bold" fill="#047857">シティダッシュボード</text>
+  <text x="95" y="1065" font-family="sans-serif" font-size="12" fill="#6B7280">• リアルタイム都市データの可視化</text>
+  <text x="95" y="1085" font-family="sans-serif" font-size="12" fill="#6B7280">• 透明性の高い予算執行表示</text>
+  <text x="95" y="1105" font-family="sans-serif" font-size="12" fill="#6B7280">• インタラクティブなデータ探索</text>
+  <text x="95" y="1125" font-family="sans-serif" font-size="12" fill="#6B7280">• 政策効果の継続的モニタリング</text>
+  
+  <!-- サービス4 -->
+  <rect x="420" y="1020" width="300" height="120" rx="8" fill="white" stroke="#7C3AED" stroke-width="2"/>
+  <rect x="420" y="1020" width="300" height="30" fill="#F5F3FF" rx="8"/>
+  <circle cx="435" cy="1035" r="10" fill="#8B5CF6"/>
+  <text x="460" y="1040" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6D28D9">参加型意思決定プラットフォーム</text>
+  <text x="435" y="1065" font-family="sans-serif" font-size="12" fill="#6B7280">• 政策提案と評価の機能</text>
+  <text x="435" y="1085" font-family="sans-serif" font-size="12" fill="#6B7280">• 参加型予算編成システム</text>
+  <text x="435" y="1105" font-family="sans-serif" font-size="12" fill="#6B7280">• 市民評議会のオンライン運営</text>
+  <text x="435" y="1125" font-family="sans-serif" font-size="12" fill="#6B7280">• ブロックチェーン技術での透明性確保</text>
+</svg>
