@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200" fill="none">
+  <!-- 背景 -->
+  <rect width="800" height="1200" fill="#F9FAFB"/>
+  
+  <!-- ヘッダー部分 -->
+  <rect x="50" y="30" width="700" height="120" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="70" font-family="sans-serif" font-size="28" font-weight="bold" fill="#4338CA" text-anchor="middle">グローバル・ハーモニー・シティ</text>
+  <text x="400" y="105" font-family="sans-serif" font-size="20" fill="#6366F1" text-anchor="middle">最小実行チーム編成（120名）</text>
+  <text x="400" y="135" font-family="sans-serif" font-size="16" fill="#818CF8" text-anchor="middle">自治体職員向け組織構成図</text>
+  
+  <!-- 首長（中心円） -->
+  <circle cx="400" cy="220" r="60" fill="#EFF6FF" stroke="#3B82F6" stroke-width="3"/>
+  <text x="400" y="200" font-family="sans-serif" font-size="16" font-weight="bold" fill="#1E40AF" text-anchor="middle">首長</text>
+  <text x="400" y="225" font-family="sans-serif" font-size="14" fill="#1E40AF" text-anchor="middle">稲盛 和夫</text>
+  <text x="400" y="245" font-family="sans-serif" font-size="10" fill="#3B82F6" text-anchor="middle">京セラフィロソフィー/利他の精神</text>
+  
+  <!-- 中心から伸びる接続線 -->
+  <line x1="400" y1="280" x2="400" y2="320" stroke="#3B82F6" stroke-width="2" stroke-dasharray="5 3"/>
+  <line x1="350" y1="260" x2="230" y2="320" stroke="#3B82F6" stroke-width="2" stroke-dasharray="5 3"/>
+  <line x1="450" y1="260" x2="570" y2="320" stroke="#3B82F6" stroke-width="2" stroke-dasharray="5 3"/>
+  
+  <!-- 3つの主要機能 -->
+  <!-- 左の主要機能（統治・行政） -->
+  <rect x="100" y="320" width="260" height="140" rx="10" fill="#F0FDF4" stroke="#047857" stroke-width="2"/>
+  <text x="230" y="345" font-family="sans-serif" font-size="16" font-weight="bold" fill="#047857" text-anchor="middle">1. 統治・行政機能 (15名)</text>
+  <text x="230" y="370" font-family="sans-serif" font-size="12" fill="#047857" text-anchor="middle">リーダー：リー・クアンユー</text>
+  <rect x="120" y="380" width="100" height="20" rx="5" fill="#ECFDF5"/>
+  <text x="170" y="395" font-family="sans-serif" font-size="10" fill="#047857" text-anchor="middle">総合プロジェクト責任者(1)</text>
+  <rect x="230" y="380" width="100" height="20" rx="5" fill="#ECFDF5"/>
+  <text x="280" y="395" font-family="sans-serif" font-size="10" fill="#047857" text-anchor="middle">行政DX責任者(1)</text>
+  <rect x="120" y="405" width="100" height="20" rx="5" fill="#ECFDF5"/>
+  <text x="170" y="420" font-family="sans-serif" font-size="10" fill="#047857" text-anchor="middle">政策立案・法務専門家(2)</text>
+  <rect x="230" y="405" width="100" height="20" rx="5" fill="#ECFDF5"/>
+  <text x="280" y="420" font-family="sans-serif" font-size="10" fill="#047857" text-anchor="middle">データアナリスト(2)</text>
+  <rect x="120" y="430" width="210" height="20" rx="5" fill="#ECFDF5"/>
+  <text x="225" y="445" font-family="sans-serif" font-size="10" fill="#047857" text-anchor="middle">その他スタッフ：財務、渉外、行政事務等(9)</text>
+  
+  <!-- 中央の主要機能（インフラ・公共） -->
+  <rect x="370" y="320" width="260" height="140" rx="10" fill="#FFF1F2" stroke="#BE123C" stroke-width="2"/>
+  <text x="500" y="345" font-family="sans-serif" font-size="16" font-weight="bold" fill="#BE123C" text-anchor="middle">2. インフラ・公共サービス (20名)</text>
+  <text x="500" y="370" font-family="sans-serif" font-size="12" fill="#BE123C" text-anchor="middle">リーダー：イーロン・マスク</text>
+  <rect x="390" y="380" width="100" height="20" rx="5" fill="#FFF1F2"/>
+  <text x="440" y="395" font-family="sans-serif" font-size="10" fill="#BE123C" text-anchor="middle">インフラ責任者(1)</text>
+  <rect x="500" y="380" width="100" height="20" rx="5" fill="#FFF1F2"/>
+  <text x="550" y="395" font-family="sans-serif" font-size="10" fill="#BE123C" text-anchor="middle">エネルギーシステム(2)</text>
+  <rect x="390" y="405" width="100" height="20" rx="5" fill="#FFF1F2"/>
+  <text x="440" y="420" font-family="sans-serif" font-size="10" fill="#BE123C" text-anchor="middle">通信ネットワーク(2)</text>
+  <rect x="500" y="405" width="100" height="20" rx="5" fill="#FFF1F2"/>
+  <text x="550" y="420" font-family="sans-serif" font-size="10" fill="#BE123C" text-anchor="middle">水資源管理(2)</text>
+  <rect x="390" y="430" width="210" height="20" rx="5" fill="#FFF1F2"/>
+  <text x="495" y="445" font-family="sans-serif" font-size="10" fill="#BE123C" text-anchor="middle">その他：廃棄物、交通、防災、建築など(13)</text>
+  
+  <!-- 右の主要機能（経済） -->
+  <rect x="640" y="320" width="110" height="140" rx="10" fill="#FFFBEB" stroke="#D97706" stroke-width="2"/>
+  <text x="695" y="345" font-family="sans-serif" font-size="16" font-weight="bold" fill="#D97706" text-anchor="middle">3. 経済基盤 (15名)</text>
+  <text x="695" y="370" font-family="sans-serif" font-size="12" fill="#D97706" text-anchor="middle">リーダー：ムハマド・ユヌス</text>
+  <rect x="650" y="380" width="90" height="20" rx="5" fill="#FFFBEB"/>
+  <text x="695" y="395" font-family="sans-serif" font-size="10" fill="#D97706" text-anchor="middle">経済開発責任者(1)</text>
+  <rect x="650" y="405" width="90" height="20" rx="5" fill="#FFFBEB"/>
+  <text x="695" y="420" font-family="sans-serif" font-size="10" fill="#D97706" text-anchor="middle">起業支援(2)</text>
+  <rect x="650" y="430" width="90" height="20" rx="5" fill="#FFFBEB"/>
+  <text x="695" y="445" font-family="sans-serif" font-size="10" fill="#D97706" text-anchor="middle">その他：研究開発等(12)</text>
+  
+  <!-- 下部の機能への接続線 -->
+  <line x1="100" y1="460" x2="100" y2="520" stroke="#4B5563" stroke-width="1.5"/>
+  <line x1="230" y1="460" x2="195" y2="520" stroke="#4B5563" stroke-width="1.5"/>
+  <line x1="360" y1="460" x2="290" y2="520" stroke="#4B5563" stroke-width="1.5"/>
+  
+  <line x1="400" y1="460" x2="400" y2="520" stroke="#4B5563" stroke-width="1.5"/>
+  <line x1="470" y1="460" x2="510" y2="520" stroke="#4B5563" stroke-width="1.5"/>
+  
+  <line x1="640" y1="460" x2="580" y2="520" stroke="#4B5563" stroke-width="1.5"/>
+  <line x1="695" y1="460" x2="700" y2="520" stroke="#4B5563" stroke-width="1.5"/>
+  
+  <!-- 4. 教育・人材育成 -->
+  <rect x="100" y="520" width="190" height="120" rx="10" fill="#F9FAFB" stroke="#4B5563" stroke-width="2"/>
+  <text x="195" y="545" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4B5563" text-anchor="middle">4. 教育・人材育成 (15名)</text>
+  <text x="195" y="565" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">リーダー：マリア・モンテッソーリ</text>
+  <text x="195" y="585" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• 教育イノベーション責任者(1)</text>
+  <text x="195" y="605" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• カリキュラム開発専門家(2)</text>
+  <text x="195" y="625" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• STEAM教育・生涯学習・IT人材育成等(12)</text>
+  
+  <!-- 5. 医療・健康 -->
+  <rect x="305" y="520" width="190" height="120" rx="10" fill="#F9FAFB" stroke="#4B5563" stroke-width="2"/>
+  <text x="400" y="545" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4B5563" text-anchor="middle">5. 医療・健康 (15名)</text>
+  <text x="400" y="565" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">リーダー：ハンス・ロスリング</text>
+  <text x="400" y="585" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• ヘルスケア責任者(1)</text>
+  <text x="400" y="605" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• 家庭医・総合診療医(2)</text>
+  <text x="400" y="625" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• 遠隔医療・予防医療・高齢者ケア等(12)</text>
+  
+  <!-- 6. コミュニティ・文化 -->
+  <rect x="510" y="520" width="190" height="120" rx="10" fill="#F9FAFB" stroke="#4B5563" stroke-width="2"/>
+  <text x="605" y="545" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4B5563" text-anchor="middle">6. コミュニティ・文化 (15名)</text>
+  <text x="605" y="565" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">リーダー：ジェイン・ジェイコブズ</text>
+  <text x="605" y="585" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• コミュニティ開発責任者(1)</text>
+  <text x="605" y="605" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• コミュニティファシリテーター(3)</text>
+  <text x="605" y="625" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• 文化プログラム・多文化共生等(11)</text>
+  
+  <!-- 7. 安全・セキュリティ -->
+  <rect x="715" y="520" width="60" height="120" rx="10" fill="#F9FAFB" stroke="#4B5563" stroke-width="2"/>
+  <text x="745" y="545" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4B5563" text-anchor="middle">7. 安全・</text>
+  <text x="745" y="565" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4B5563" text-anchor="middle">セキュリティ</text>
+  <text x="745" y="585" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">(10名)</text>
+  <text x="745" y="605" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">リーダー：</text>
+  <text x="745" y="620" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">バーナーズ＝</text>
+  <text x="745" y="635" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">リー</text>
+  
+  <!-- テクノロジー基盤への接続線 -->
+  <line x1="195" y1="640" x2="320" y2="660" stroke="#4B5563" stroke-width="1.5"/>
+  <line x1="400" y1="640" x2="430" y2="660" stroke="#4B5563" stroke-width="1.5"/>
+  <line x1="605" y1="640" x2="500" y2="660" stroke="#4B5563" stroke-width="1.5"/>
+  <line x1="745" y1="640" x2="610" y2="660" stroke="#4B5563" stroke-width="1.5"/>
+  
+  <!-- 8. テクノロジー基盤 -->
+  <rect x="300" y="660" width="400" height="120" rx="10" fill="#F9FAFB" stroke="#4B5563" stroke-width="2"/>
+  <text x="500" y="685" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4B5563" text-anchor="middle">8. テクノロジー基盤 (15名)</text>
+  <text x="500" y="705" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">リーダー：伊藤穰一</text>
+  <text x="500" y="725" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• IT責任者/CTO(1) • プラットフォームアーキテクト(2) • クラウドインフラエンジニア(2)</text>
+  <text x="500" y="745" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• データベース/APIスペシャリスト(2) • AIエンジニア(2) • IoTシステムエンジニア(2)</text>
+  <text x="500" y="765" font-family="sans-serif" font-size="10" fill="#4B5563" text-anchor="middle">• ブロックチェーン開発者(1) • UX/UIデザイナー(1) • デジタルツイン開発者(1) • サポート(1)</text>
+  
+  <!-- 段階的成長計画 -->
+  <rect x="50" y="800" width="700" height="180" rx="10" fill="#EEF2FF" opacity="0.5" stroke="#6366F1" stroke-width="1"/>
+  <text x="400" y="825" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">段階的成長計画</text>
+  
+  <!-- フェーズ1 -->
+  <rect x="70" y="845" width="150" height="120" rx="8" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="145" y="865" font-family="sans-serif" font-size="14" font-weight="bold" fill="#1D4ED8" text-anchor="middle">フェーズ1</text>
+  <text x="145" y="885" font-family="sans-serif" font-size="12" fill="#1D4ED8" text-anchor="middle">基盤構築期（120名）</text>
+  <text x="145" y="905" font-family="sans-serif" font-size="10" fill="#1D4ED8" text-anchor="middle">• 核となる機能の確立</text>
+  <text x="145" y="925" font-family="sans-serif" font-size="10" fill="#1D4ED8" text-anchor="middle">• 基本インフラ構築</text>
+  <text x="145" y="945" font-family="sans-serif" font-size="10" fill="#1D4ED8" text-anchor="middle">• 初期コミュニティ形成</text>
+  
+  <!-- フェーズ2 -->
+  <rect x="240" y="845" width="150" height="120" rx="8" fill="#F0FDFA" stroke="#14B8A6" stroke-width="1.5"/>
+  <text x="315" y="865" font-family="sans-serif" font-size="14" font-weight="bold" fill="#0F766E" text-anchor="middle">フェーズ2</text>
+  <text x="315" y="885" font-family="sans-serif" font-size="12" fill="#0F766E" text-anchor="middle">初期成長期（500名）</text>
+  <text x="315" y="905" font-family="sans-serif" font-size="10" fill="#0F766E" text-anchor="middle">• 各機能の拡充と専門化</text>
+  <text x="315" y="925" font-family="sans-serif" font-size="10" fill="#0F766E" text-anchor="middle">• 初期居住者コミュニティ形成</text>
+  <text x="315" y="945" font-family="sans-serif" font-size="10" fill="#0F766E" text-anchor="middle">• 基幹企業・研究機関誘致</text>
+  
+  <!-- フェーズ3 -->
+  <rect x="410" y="845" width="150" height="120" rx="8" fill="#FEF2F2" stroke="#EF4444" stroke-width="1.5"/>
+  <text x="485" y="865" font-family="sans-serif" font-size="14" font-weight="bold" fill="#B91C1C" text-anchor="middle">フェーズ3</text>
+  <text x="485" y="885" font-family="sans-serif" font-size="12" fill="#B91C1C" text-anchor="middle">拡大期（3,000名）</text>
+  <text x="485" y="905" font-family="sans-serif" font-size="10" fill="#B91C1C" text-anchor="middle">• 住居エリアの段階的開発</text>
+  <text x="485" y="925" font-family="sans-serif" font-size="10" fill="#B91C1C" text-anchor="middle">• 経済エコシステム本格稼働</text>
+  <text x="485" y="945" font-family="sans-serif" font-size="10" fill="#B91C1C" text-anchor="middle">• 教育・文化機能の拡充</text>
+  
+  <!-- フェーズ4 -->
+  <rect x="580" y="845" width="150" height="120" rx="8" fill="#FDF4FF" stroke="#D946EF" stroke-width="1.5"/>
+  <text x="655" y="865" font-family="sans-serif" font-size="14" font-weight="bold" fill="#A21CAF" text-anchor="middle">フェーズ4</text>
+  <text x="655" y="885" font-family="sans-serif" font-size="12" fill="#A21CAF" text-anchor="middle">成熟期（30,000名）</text>
+  <text x="655" y="905" font-family="sans-serif" font-size="10" fill="#A21CAF" text-anchor="middle">• 自治体機能の完全確立</text>
+  <text x="655" y="925" font-family="sans-serif" font-size="10" fill="#A21CAF" text-anchor="middle">• グローバルネットワーク構築</text>
+  <text x="655" y="945" font-family="sans-serif" font-size="10" fill="#A21CAF" text-anchor="middle">• 新たな自治モデルの実証化</text>
+  
+  <!-- 進化の方向性を示す矢印 -->
+  <line x1="222" y1="905" x2="238" y2="905" stroke="#4B5563" stroke-width="1.5" stroke-dasharray="2 2"/>
+  <polygon points="236,905 245,900 245,910" fill="#4B5563"/>
+  
+  <line x1="392" y1="905" x2="408" y2="905" stroke="#4B5563" stroke-width="1.5" stroke-dasharray="2 2"/>
+  <polygon points="406,905 415,900 415,910" fill="#4B5563"/>
+  
+  <line x1="562" y1="905" x2="578" y2="905" stroke="#4B5563" stroke-width="1.5" stroke-dasharray="2 2"/>
+  <polygon points="576,905 585,900 585,910" fill="#4B5563"/>
+  
+  <!-- 優先事項 -->
+  <rect x="50" y="1000" width="700" height="180" rx="10" fill="#F0FDF4" opacity="0.5" stroke="#10B981" stroke-width="1"/>
+  <text x="400" y="1025" font-family="sans-serif" font-size="18" font-weight="bold" fill="#047857" text-anchor="middle">初期優先事項 (フェーズ1)</text>
+  
+  <rect x="70" y="1050" width="320" height="30" rx="8" fill="#ECFDF5" stroke="#10B981" stroke-width="1.5"/>
+  <text x="90" y="1070" font-family="sans-serif" font-size="14" fill="#047857">1. 統合デジタルプラットフォームの構築</text>
+  
+  <rect x="70" y="1090" width="320" height="30" rx="8" fill="#ECFDF5" stroke="#10B981" stroke-width="1.5"/>
+  <text x="90" y="1110" font-family="sans-serif" font-size="14" fill="#047857">2. コアコミュニティの形成と文化醸成</text>
+  
+  <rect x="70" y="1130" width="320" height="30" rx="8" fill="#ECFDF5" stroke="#10B981" stroke-width="1.5"/>
+  <text x="90" y="1150" font-family="sans-serif" font-size="14" fill="#047857">3. 初期インフラの整備</text>
+  
+  <rect x="410" y="1050" width="320" height="30" rx="8" fill="#ECFDF5" stroke="#10B981" stroke-width="1.5"/>
+  <text x="430" y="1070" font-family="sans-serif" font-size="14" fill="#047857">4. パイロットプロジェクトによる実証</text>
+  
+  <rect x="410" y="1090" width="320" height="30" rx="8" fill="#ECFDF5" stroke="#10B981" stroke-width="1.5"/>
+  <text x="430" y="1110" font-family="sans-serif" font-size="14" fill="#047857">5. 人材獲得とオンボーディング確立</text>
+  
+  <rect x="410" y="1130" width="320" height="30" rx="8" fill="#F1F5F9" stroke="#64748B" stroke-width="1.5"/>
+  <text x="430" y="1150" font-family="sans-serif" font-size="14" fill="#475569">「遠き理想、近き目標」の実践</text>
+</svg>
