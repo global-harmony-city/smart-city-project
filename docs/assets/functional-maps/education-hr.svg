@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200" fill="none">
+  <!-- 背景 -->
+  <rect width="800" height="1200" fill="#F9FAFB"/>
+  
+  <!-- ヘッダー部分 -->
+  <rect x="50" y="30" width="700" height="100" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="70" font-family="sans-serif" font-size="28" font-weight="bold" fill="#4338CA" text-anchor="middle">グローバル・ハーモニー・シティ</text>
+  <text x="400" y="105" font-family="sans-serif" font-size="20" fill="#6366F1" text-anchor="middle">教育・人材育成機能のビジュアルガイド</text>
+  
+  <!-- 基本コンセプト -->
+  <rect x="50" y="160" width="700" height="220" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="160" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="186" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">教育・人材育成の基本コンセプト</text>
+  
+  <!-- コンセプト1 -->
+  <circle cx="170" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="170" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">循</text>
+  <text x="170" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">学びの循環</text>
+  <text x="170" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">知識とスキルが世代を</text>
+  <text x="170" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">超えて循環する</text>
+  
+  <!-- コンセプト2 -->
+  <circle cx="400" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="400" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">調</text>
+  <text x="400" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">創造の調和</text>
+  <text x="400" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">論理と創造性、科学と芸術</text>
+  <text x="400" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">テクノロジーと人間性の調和</text>
+  
+  <!-- コンセプト3 -->
+  <circle cx="630" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="630" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">共</text>
+  <text x="630" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">自律と共創</text>
+  <text x="630" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">主体的な学びと</text>
+  <text x="630" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">協働による価値創造</text>
+  
+  <!-- チーム構成図 -->
+  <rect x="50" y="410" width="700" height="280" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="410" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="436" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">教育・人材育成チーム構成（15名）</text>
+  
+  <!-- 教育イノベーション責任者 -->
+  <circle cx="400" cy="510" r="40" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="400" y="505" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2563EB" text-anchor="middle">教育イノベーション</text>
+  <text x="400" y="525" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2563EB" text-anchor="middle">責任者(1)</text>
+  
+  <!-- カリキュラム系 -->
+  <circle cx="200" cy="510" r="30" fill="#F0FDF4" stroke="#10B981" stroke-width="2"/>
+  <text x="200" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#047857" text-anchor="middle">カリキュラム</text>
+  <text x="200" y="520" font-family="sans-serif" font-size="10" fill="#047857" text-anchor="middle">開発専門家(2)</text>
+  
+  <!-- STEAM教育 -->
+  <circle cx="600" cy="510" r="30" fill="#FEF2F2" stroke="#EF4444" stroke-width="2"/>
+  <text x="600" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#DC2626" text-anchor="middle">STEAM教育</text>
+  <text x="600" y="520" font-family="sans-serif" font-size="10" fill="#DC2626" text-anchor="middle">実践者(3)</text>
+  
+  <!-- 生涯学習 -->
+  <circle cx="200" cy="600" r="30" fill="#F0F9FF" stroke="#0EA5E9" stroke-width="2"/>
+  <text x="200" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0369A1" text-anchor="middle">生涯学習</text>
+  <text x="200" y="610" font-family="sans-serif" font-size="10" fill="#0369A1" text-anchor="middle">コーディネーター(2)</text>
+  
+  <!-- IT人材育成 -->
+  <circle cx="300" cy="600" r="30" fill="#FDF4FF" stroke="#D946EF" stroke-width="2"/>
+  <text x="300" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#A21CAF" text-anchor="middle">IT人材育成</text>
+  <text x="300" y="610" font-family="sans-serif" font-size="10" fill="#A21CAF" text-anchor="middle">トレーナー(2)</text>
+  
+  <!-- 教育テクノロジスト -->
+  <circle cx="400" cy="600" r="30" fill="#FFFBEB" stroke="#F59E0B" stroke-width="2"/>
+  <text x="400" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#D97706" text-anchor="middle">教育</text>
+  <text x="400" y="610" font-family="sans-serif" font-size="10" fill="#D97706" text-anchor="middle">テクノロジスト(2)</text>
+  
+  <!-- グローバル教育連携 -->
+  <circle cx="500" cy="600" r="30" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="500" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#7C3AED" text-anchor="middle">グローバル教育</text>
+  <text x="500" y="610" font-family="sans-serif" font-size="10" fill="#7C3AED" text-anchor="middle">連携担当(1)</text>
+  
+  <!-- 伝統文化・技術継承 -->
+  <circle cx="600" cy="600" r="30" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="600" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#1D4ED8" text-anchor="middle">伝統文化・技術</text>
+  <text x="600" y="610" font-family="sans-serif" font-size="10" fill="#1D4ED8" text-anchor="middle">継承担当(2)</text>
+  
+  <!-- 接続線 -->
+  <line x1="230" y1="510" x2="360" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="440" y1="510" x2="570" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="400" y1="550" x2="400" y2="570" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="390" y1="560" x2="330" y2="585" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="410" y1="560" x2="470" y2="585" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="230" y1="600" x2="270" y2="600" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="330" y1="600" x2="370" y2="600" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="430" y1="600" x2="470" y2="600" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="530" y1="600" x2="570" y2="600" stroke="#3B82F6" stroke-width="1.5"/>
+  
+  <!-- 最小機能要件 -->
+  <rect x="50" y="720" width="700" height="280" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="720" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="746" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">最小機能要件</text>
+  
+  <!-- 機能1 革新的カリキュラムの学校 -->
+  <rect x="70" y="770" width="320" height="100" rx="8" fill="white" stroke="#10B981" stroke-width="2"/>
+  <rect x="70" y="770" width="320" height="30" fill="#ECFDF5" rx="8"/>
+  <text x="230" y="790" font-family="sans-serif" font-size="14" font-weight="bold" fill="#047857" text-anchor="middle">ハーモニーラーニングラボ</text>
+  <text x="85" y="815" font-family="sans-serif" font-size="12" fill="#6B7280">• 初期50名の小規模実験校</text>
+  <text x="85" y="835" font-family="sans-serif" font-size="12" fill="#6B7280">• 年齢混合クラス</text>
+  <text x="85" y="855" font-family="sans-serif" font-size="12" fill="#6B7280">• プロジェクトベース学習中心</text>
+  
+  <!-- 機能2 オンライン学習プラットフォーム -->
+  <rect x="410" y="770" width="320" height="100" rx="8" fill="white" stroke="#0EA5E9" stroke-width="2"/>
+  <rect x="410" y="770" width="320" height="30" fill="#F0F9FF" rx="8"/>
+  <text x="570" y="790" font-family="sans-serif" font-size="14" font-weight="bold" fill="#0369A1" text-anchor="middle">ハーモニーラーニングクラウド</text>
+  <text x="425" y="815" font-family="sans-serif" font-size="12" fill="#6B7280">• パーソナライズされた学習パス</text>
+  <text x="425" y="835" font-family="sans-serif" font-size="12" fill="#6B7280">• AIによる学習進捗分析</text>
+  <text x="425" y="855" font-family="sans-serif" font-size="12" fill="#6B7280">• オープン教育リソース（OER）ライブラリ</text>
+  
+  <!-- 機能3 STEAM教育実践スペース -->
+  <rect x="70" y="880" width="320" height="100" rx="8" fill="white" stroke="#EF4444" stroke-width="2"/>
+  <rect x="70" y="880" width="320" height="30" fill="#FEF2F2" rx="8"/>
+  <text x="230" y="900" font-family="sans-serif" font-size="14" font-weight="bold" fill="#DC2626" text-anchor="middle">クリエイティブコモンズ</text>
+  <text x="85" y="925" font-family="sans-serif" font-size="12" fill="#6B7280">• デジタルファブリケーション機器</text>
+  <text x="85" y="945" font-family="sans-serif" font-size="12" fill="#6B7280">• サイエンスラボ設備</text>
+  <text x="85" y="965" font-family="sans-serif" font-size="12" fill="#6B7280">• 展示・プレゼンテーションスペース</text>
+  
+  <!-- 機能4 テックアカデミー -->
+  <rect x="410" y="880" width="320" height="100" rx="8" fill="white" stroke="#D946EF" stroke-width="2"/>
+  <rect x="410" y="880" width="320" height="30" fill="#FDF4FF" rx="8"/>
+  <text x="570" y="900" font-family="sans-serif" font-size="14" font-weight="bold" fill="#A21CAF" text-anchor="middle">ハーモニーテックラボ</text>
+  <text x="425" y="925" font-family="sans-serif" font-size="12" fill="#6B7280">• ソフトウェア開発ラボ</text>
+  <text x="425" y="945" font-family="sans-serif" font-size="12" fill="#6B7280">• ハードウェアプロトタイピング環境</text>
+  <text x="425" y="965" font-family="sans-serif" font-size="12" fill="#6B7280">• テクノロジー企業とのコネクションハブ</text>
+  
+  <!-- 住民タッチポイント -->
+  <rect x="50" y="1030" width="700" height="140" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="1030" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="1056" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">住民とのタッチポイント</text>
+  
+  <!-- 中央円と接続線 -->
+  <circle cx="400" cy="1120" r="40" fill="#ECFDF5" stroke="#10B981" stroke-width="3"/>
+  <text x="400" y="1118" font-family="sans-serif" font-size="16" font-weight="bold" fill="#047857" text-anchor="middle">住民</text>
+  <text x="400" y="1135" font-family="sans-serif" font-size="12" fill="#047857" text-anchor="middle">学びの共創者</text>
+  
+  <!-- デジタル -->
+  <circle cx="200" cy="1120" r="30" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="200" y="1115" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2563EB" text-anchor="middle">デジタル</text>
+  <text x="200" y="1130" font-family="sans-serif" font-size="10" fill="#2563EB" text-anchor="middle">プラットフォーム</text>
+  <line x1="230" y1="1120" x2="360" y2="1120" stroke="#3B82F6" stroke-width="1.5"/>
+  
+  <!-- フィジカル -->
+  <circle cx="600" cy="1120" r="30" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="600" y="1115" font-family="sans-serif" font-size="12" font-weight="bold" fill="#7C3AED" text-anchor="middle">フィジカル</text>
+  <text x="600" y="1130" font-family="sans-serif" font-size="10" fill="#7C3AED" text-anchor="middle">スペース・イベント</text>
+  <line x1="440" y1="1120" x2="570" y2="1120" stroke="#8B5CF6" stroke-width="1.5"/>
+  
+  <!-- タッチポイント例 -->
+  <rect x="50" y="1180" width="700" height="70" rx="10" fill="#ECFDF5" opacity="0.2" stroke="#10B981" stroke-width="1"/>
+  <text x="60" y="1205" font-family="sans-serif" font-size="12" font-weight="bold" fill="#047857">主要タッチポイント例:</text>
+  <text x="60" y="1225" font-family="sans-serif" font-size="12" fill="#047857">• ハーモニーラーニングアプリ</text>
+  <text x="260" y="1225" font-family="sans-serif" font-size="12" fill="#047857">• ラーニングハブステーション</text>
+  <text x="460" y="1225" font-family="sans-serif" font-size="12" fill="#047857">• 月次ラーニングフェスティバル</text>
+  <text x="60" y="1245" font-family="sans-serif" font-size="12" fill="#047857">• 教育データダッシュボード</text>
+  <text x="260" y="1245" font-family="sans-serif" font-size="12" fill="#047857">• スキルシェアプラットフォーム</text>
+  <text x="460" y="1245" font-family="sans-serif" font-size="12" fill="#047857">• 教育アドバイザリーカフェ</text>
+</svg>
