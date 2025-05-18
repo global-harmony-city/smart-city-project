@@ -1,0 +1,62 @@
+# サイト設定
+title: グローバル・ハーモニー・シティ
+description: 人と技術が共鳴する持続可能な未来都市のITプロジェクト
+lang: ja
+timezone: Asia/Tokyo
+
+# テーマ設定
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
+
+# ナビゲーション
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: https://github.com/global-harmony-city/smart-city-project
+  repository_name: グローバル・ハーモニー・シティ プロジェクト
+  owner_url: https://github.com/global-harmony-city
+  owner_name: グローバル・ハーモニー・シティ
+
+# カスタム変数
+project_stage: "フェーズ1: 基盤構築期"
+project_start_date: "2025年5月"
+
+# SEO関連
+social:
+  name: グローバル・ハーモニー・シティ
+  links:
+    - https://github.com/global-harmony-city
+
+# カスタムカラー
+colors:
+  theme: "#4338CA"
+  header: "#4F46E5"
+  link: "#3B82F6"
+  section: "#F9FAFB"
+
+# テーマのカスタマイズ
+cayman:
+  date_format: "%Y年%m月%d日"
+  header_pages:
+    - index.md
+    - about.md
+    - tech.md
+  
+# Markdownプロセッサ設定
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# 除外ファイル
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
