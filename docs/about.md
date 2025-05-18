@@ -7,7 +7,7 @@ permalink: /about/
 # グローバル・ハーモニー・シティについて
 
 <div class="logo-container">
-  <img src="docs/assets/project-logo.svg" alt="グローバル・ハーモニー・シティ ロゴ">
+  <img src="./assets/project-logo.svg" alt="グローバル・ハーモニー・シティ ロゴ">
 </div>
 
 ## ビジョン
