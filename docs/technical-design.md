@@ -486,10 +486,10 @@ Microsoft Dataverseと SharePoint リストを組み合わせたデータ管理�
 ### ダイアグラム一覧
 
 1. システムアーキテクチャ図 (`./assets/architecture.svg`)
-2. 認証フロー図 (`./assets/auth-flow.png`)
-3. エンティティリレーションシップ図 (`./assets/entity-relationships.png`)
-4. ネットワークトポロジー図 (`./assets/network-topology.png`)
-5. デプロイメントモデル図 (`./assets/deployment-model.png`)
+2. 認証フロー図 (`./assets/auth-flow.svg`)
+3. エンティティリレーションシップ図 (`./assets/entity-relationships.svg`)
+4. ネットワークトポロジー図 (`./assets/network-topology.svg`)
+5. デプロイメントモデル図 (`./assets/deployment-model.svg`)
 
 ---
 
