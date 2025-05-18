@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700" viewBox="0 0 800 700" fill="none">
+  <!-- 背景 -->
+  <rect width="800" height="700" fill="#F9FAFB"/>
+  
+  <!-- タイトル -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#111827">グローバル・ハーモニー・シティ</text>
+  <text x="400" y="80" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#4B5563">デプロイメントモデル</text>
+  
+  <!-- 環境分離の背景 -->
+  <rect x="50" y="120" width="700" height="460" rx="10" fill="#ECFDF5" stroke="#10B981" stroke-width="1"/>
+  <text x="400" y="145" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#065F46">環境分離アーキテクチャ</text>
+  
+  <!-- 開発環境 -->
+  <rect x="80" y="170" width="200" height="380" rx="8" fill="#D1FAE5" stroke="#10B981" stroke-width="2"/>
+  <rect x="80" y="170" width="200" height="40" rx="8" fill="#A7F3D0"/>
+  <text x="180" y="195" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#047857">開発環境 (Dev)</text>
+  
+  <rect x="95" y="220" width="170" height="60" rx="6" fill="#F0FDF4" stroke="#10B981" stroke-width="1"/>
+  <text x="180" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#047857">M365開発テナント</text>
+  <text x="180" y="260" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#047857">dev-harmony.onmicrosoft.com</text>
+  
+  <rect x="95" y="290" width="170" height="80" rx="6" fill="#F0FDF4" stroke="#10B981" stroke-width="1"/>
+  <text x="180" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#047857">Power Platform</text>
+  <text x="180" y="330" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#047857">開発環境</text>
+  <text x="180" y="350" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#047857">個人開発者サンドボックス</text>
+  
+  <rect x="95" y="380" width="170" height="60" rx="6" fill="#F0FDF4" stroke="#10B981" stroke-width="1"/>
+  <text x="180" y="400" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#047857">Azure開発</text>
+  <text x="180" y="420" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#047857">開発リソースグループ</text>
+  
+  <rect x="95" y="450" width="170" height="80" rx="6" fill="#F0FDF4" stroke="#10B981" stroke-width="1"/>
+  <text x="180" y="470" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#047857">DevOps</text>
+  <text x="180" y="490" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#047857">GitHub リポジトリ</text>
+  <text x="180" y="510" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#047857">CI/CD パイプライン</text>
+  
+  <!-- テスト環境 -->
+  <rect x="300" y="170" width="200" height="380" rx="8" fill="#DBEAFE" stroke="#3B82F6" stroke-width="2"/>
+  <rect x="300" y="170" width="200" height="40" rx="8" fill="#BFDBFE"/>
+  <text x="400" y="195" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1E40AF">テスト環境 (Test)</text>
+  
+  <rect x="315" y="220" width="170" height="60" rx="6" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1"/>
+  <text x="400" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1E40AF">M365テストテナント</text>
+  <text x="400" y="260" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1E40AF">test-harmony.onmicrosoft.com</text>
+  
+  <rect x="315" y="290" width="170" height="80" rx="6" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1"/>
+  <text x="400" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1E40AF">Power Platform</text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1E40AF">テスト環境</text>
+  <text x="400" y="350" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1E40AF">統合テストDataverse</text>
+  
+  <rect x="315" y="380" width="170" height="60" rx="6" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1"/>
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1E40AF">Azureテスト</text>
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1E40AF">テストリソースグループ</text>
+  
+  <rect x="315" y="450" width="170" height="80" rx="6" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1"/>
+  <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1E40AF">テスト自動化</text>
+  <text x="400" y="490" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1E40AF">自動テストスイート</text>
+  <text x="400" y="510" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1E40AF">負荷テスト環境</text>
+  
+  <!-- 本番環境 -->
+  <rect x="520" y="170" width="200" height="380" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/>
+  <rect x="520" y="170" width="200" height="40" rx="8" fill="#FDE68A"/>
+  <text x="620" y="195" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#92400E">本番環境 (Prod)</text>
+  
+  <rect x="535" y="220" width="170" height="60" rx="6" fill="#FFFBEB" stroke="#D97706" stroke-width="1"/>
+  <text x="620" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#92400E">M365本番テナント</text>
+  <text x="620" y="260" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#92400E">harmony-city.onmicrosoft.com</text>
+  
+  <rect x="535" y="290" width="170" height="80" rx="6" fill="#FFFBEB" stroke="#D97706" stroke-width="1"/>
+  <text x="620" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#92400E">Power Platform</text>
+  <text x="620" y="330" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#92400E">本番環境</text>
+  <text x="620" y="350" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#92400E">業務用Dataverse</text>
+  
+  <rect x="535" y="380" width="170" height="60" rx="6" fill="#FFFBEB" stroke="#D97706" stroke-width="1"/>
+  <text x="620" y="400" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#92400E">Azure本番</text>
+  <text x="620" y="420" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#92400E">本番リソースグループ</text>
+  
+  <rect x="535" y="450" width="170" height="80" rx="6" fill="#FFFBEB" stroke="#D97706" stroke-width="1"/>
+  <text x="620" y="470" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#92400E">モニタリング</text>
+  <text x="620" y="490" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#92400E">Application Insights</text>
+  <text x="620" y="510" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#92400E">Azure Monitor</text>
+  
+  <!-- 環境間の接続 -->
+  <path d="M280,250 C290,250 290,250 300,250" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  <path d="M500,250 C510,250 510,250 520,250" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  
+  <path d="M280,330 C290,330 290,330 300,330" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  <path d="M500,330 C510,330 510,330 520,330" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  
+  <path d="M280,410 C290,410 290,410 300,410" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  <path d="M500,410 C510,410 510,410 520,410" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  
+  <path d="M280,490 C290,490 290,490 300,490" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  <path d="M500,490 C510,490 510,490 520,490" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+  
+  <!-- デプロイフェーズ -->
+  <rect x="50" y="600" width="700" height="80" rx="10" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="400" y="625" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#6D28D9">デプロイメントプロセス</text>
+  
+  <rect x="80" y="645" width="140" height="25" rx="5" fill="#EDE9FE" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="150" y="662" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6D28D9">1. ソース管理 (Git)</text>
+  
+  <rect x="240" y="645" width="140" height="25" rx="5" fill="#EDE9FE" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="310" y="662" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6D28D9">2. ビルド (CI)</text>
+  
+  <rect x="400" y="645" width="140" height="25" rx="5" fill="#EDE9FE" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="470" y="662" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6D28D9">3. テスト (自動化)</text>
+  
+  <rect x="560" y="645" width="140" height="25" rx="5" fill="#EDE9FE" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="630" y="662" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6D28D9">4. デプロイ (CD)</text>
+  
+  <!-- 矢印定義 -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4B5563"/>
+    </marker>
+  </defs>
+  
+  <!-- 連結矢印 -->
+  <line x1="220" y1="657" x2="235" y2="657" stroke="#6D28D9" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="380" y1="657" x2="395" y2="657" stroke="#6D28D9" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="540" y1="657" x2="555" y2="657" stroke="#6D28D9" stroke-width="2" marker-end="url(#arrowhead)"/>
+</svg>
