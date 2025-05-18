@@ -11,7 +11,7 @@ permalink: /tech/
 ## アーキテクチャ概要
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="{{ site.baseurl }}/assets/architecture.svg" alt="ITアーキテクチャ図" style="max-width: 100%;">
+  <img src="./assets/architecture.svg" alt="ITアーキテクチャ図" style="max-width: 100%;">
 </div>
 
 システムは、以下の5つの層で構成されています：
