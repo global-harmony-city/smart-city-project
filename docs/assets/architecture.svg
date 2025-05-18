@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <!-- 背景 -->
+  <rect width="800" height="600" fill="#F8FAFC" />
+  
+  <!-- タイトル -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" font-weight="bold" fill="#1E293B">グローバル・ハーモニー・シティ ITアーキテクチャ</text>
+  <text x="400" y="70" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#64748B">Microsoft製品エコシステムを活用した構成</text>
+  
+  <!-- レイヤー背景 -->
+  <rect x="50" y="100" width="700" height="90" rx="10" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/>
+  <rect x="50" y="195" width="700" height="120" rx="10" fill="#E0F2FE" stroke="#0EA5E9" stroke-width="2"/>
+  <rect x="50" y="320" width="700" height="120" rx="10" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <rect x="50" y="445" width="700" height="90" rx="10" fill="#ECFDF5" stroke="#10B981" stroke-width="2"/>
+  <rect x="50" y="540" width="700" height="40" rx="10" fill="#E0E7FF" stroke="#6366F1" stroke-width="2"/>
+  
+  <!-- レイヤータイトル -->
+  <text x="90" y="125" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#92400E">1. 住民タッチポイント層</text>
+  <text x="90" y="220" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0369A1">2. フロントエンド層</text>
+  <text x="90" y="345" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1E40AF">3. アプリケーション層</text>
+  <text x="90" y="470" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#065F46">4. データ層</text>
+  <text x="90" y="565" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4338CA">5. インフラ層</text>
+  
+  <!-- コンポーネント：住民タッチポイント層 -->
+  <rect x="100" y="140" width="160" height="35" rx="5" fill="#FFEDD5" stroke="#F97316" stroke-width="1"/>
+  <text x="180" y="163" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#9A3412">Webポータル</text>
+  
+  <rect x="290" y="140" width="160" height="35" rx="5" fill="#FFEDD5" stroke="#F97316" stroke-width="1"/>
+  <text x="370" y="163" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#9A3412">モバイルアプリ</text>
+  
+  <rect x="480" y="140" width="160" height="35" rx="5" fill="#FFEDD5" stroke="#F97316" stroke-width="1"/>
+  <text x="560" y="163" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#9A3412">Teamsコミュニティ</text>
+  
+  <!-- コンポーネント：フロントエンド層 -->
+  <rect x="100" y="245" width="160" height="55" rx="5" fill="#BFDBFE" stroke="#2563EB" stroke-width="1"/>
+  <text x="180" y="270" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" font-weight="bold" fill="#1E40AF">SharePointポータル</text>
+  <text x="180" y="288" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#3B82F6">SPFxカスタマイズ</text>
+  
+  <rect x="290" y="245" width="160" height="55" rx="5" fill="#BFDBFE" stroke="#2563EB" stroke-width="1"/>
+  <text x="370" y="270" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" font-weight="bold" fill="#1E40AF">Power Appsアプリ</text>
+  <text x="370" y="288" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#3B82F6">キャンバスアプリ</text>
+  
+  <rect x="480" y="245" width="160" height="55" rx="5" fill="#BFDBFE" stroke="#2563EB" stroke-width="1"/>
+  <text x="560" y="270" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" font-weight="bold" fill="#1E40AF">Teamsタブアプリ</text>
+  <text x="560" y="288" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#3B82F6">チーム/チャネル連携</text>
+  
+  <!-- コンポーネント：アプリケーション層 -->
+  <rect x="100" y="370" width="160" height="55" rx="5" fill="#DBEAFE" stroke="#3B82F6" stroke-width="1"/>
+  <text x="180" y="395" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" font-weight="bold" fill="#1E40AF">コンテンツ管理</text>
+  <text x="180" y="413" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#3B82F6">SharePoint Online</text>
+  
+  <rect x="290" y="370" width="160" height="55" rx="5" fill="#DBEAFE" stroke="#3B82F6" stroke-width="1"/>
+  <text x="370" y="395" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" font-weight="bold" fill="#1E40AF">業務自動化</text>
+  <text x="370" y="413" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#3B82F6">Power Automate</text>
+  
+  <rect x="480" y="370" width="160" height="55" rx="5" fill="#DBEAFE" stroke="#3B82F6" stroke-width="1"/>
+  <text x="560" y="395" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" font-weight="bold" fill="#1E40AF">認証・ID管理</text>
+  <text x="560" y="413" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#3B82F6">Microsoft Entra ID</text>
+  
+  <!-- コンポーネント：データ層 -->
+  <rect x="100" y="480" width="160" height="40" rx="5" fill="#D1FAE5" stroke="#10B981" stroke-width="1"/>
+  <text x="180" y="505" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#047857">Dataverse</text>
+  
+  <rect x="290" y="480" width="160" height="40" rx="5" fill="#D1FAE5" stroke="#10B981" stroke-width="1"/>
+  <text x="370" y="505" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#047857">SharePointリスト</text>
+  
+  <rect x="480" y="480" width="160" height="40" rx="5" fill="#D1FAE5" stroke="#10B981" stroke-width="1"/>
+  <text x="560" y="505" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#047857">Power BI分析データ</text>
+  
+  <!-- コンポーネント：インフラ層 -->
+  <text x="250" y="565" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#4F46E5">Microsoft 365</text>
+  <text x="550" y="565" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#4F46E5">Microsoft Azure</text>
+  
+  <!-- 接続線 -->
+  <g stroke-dasharray="5,3" stroke-width="1.5">
+    <!-- タッチポイント → フロントエンド -->
+    <line x1="180" y1="175" x2="180" y2="245" stroke="#F97316" />
+    <line x1="370" y1="175" x2="370" y2="245" stroke="#F97316" />
+    <line x1="560" y1="175" x2="560" y2="245" stroke="#F97316" />
+    
+    <!-- フロントエンド → アプリケーション -->
+    <line x1="180" y1="300" x2="180" y2="370" stroke="#2563EB" />
+    <line x1="370" y1="300" x2="370" y2="370" stroke="#2563EB" />
+    <line x1="560" y1="300" x2="560" y2="370" stroke="#2563EB" />
+    
+    <!-- アプリケーション → データ -->
+    <line x1="180" y1="425" x2="180" y2="480" stroke="#3B82F6" />
+    <line x1="370" y1="425" x2="370" y2="480" stroke="#3B82F6" />
+    <line x1="560" y1="425" x2="560" y2="480" stroke="#3B82F6" />
+    
+    <!-- データ → インフラ -->
+    <line x1="180" y1="520" x2="250" y2="550" stroke="#10B981" />
+    <line x1="370" y1="520" x2="300" y2="550" stroke="#10B981" />
+    <line x1="370" y1="520" x2="450" y2="550" stroke="#10B981" />
+    <line x1="560" y1="520" x2="550" y2="550" stroke="#10B981" />
+  </g>
+  
+  <!-- 横断的関心事 -->
+  <g transform="translate(20, 200)">
+    <rect x="0" y="0" width="20" height="330" rx="5" fill="#FEF2F2" stroke="#EF4444" stroke-width="1" opacity="0.7"/>
+    <text x="10" y="165" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#B91C1C" transform="rotate(270 10,165)">セキュリティ・コンプライアンス</text>
+  </g>
+  
+  <g transform="translate(760, 200)">
+    <rect x="0" y="0" width="20" height="330" rx="5" fill="#F0F9FF" stroke="#0EA5E9" stroke-width="1" opacity="0.7"/>
+    <text x="10" y="165" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#0369A1" transform="rotate(90 10,165)">監視・運用管理</text>
+  </g>
+  
+  <!-- フェーズ表示 -->
+  <rect x="640" y="100" width="100" height="25" rx="12" fill="#FEF3C7" stroke="#D97706" stroke-width="1"/>
+  <text x="690" y="117" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#92400E">フェーズ1実装</text>
+</svg>
