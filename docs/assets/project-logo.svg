@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+  <!-- 背景円 -->
+  <circle cx="125" cy="125" r="115" fill="#F8FAFC" stroke="#4338CA" stroke-width="2" />
+  
+  <!-- 内側の円 -->
+  <circle cx="125" cy="125" r="90" fill="#F8FAFC" stroke="#4338CA" stroke-width="1.5" opacity="0.7" />
+  
+  <!-- 都市シルエット -->
+  <g fill="#4338CA">
+    <!-- 左側ビル群 -->
+    <rect x="45" y="105" width="12" height="60" rx="1" />
+    <rect x="62" y="90" width="10" height="75" rx="1" />
+    <rect x="77" y="110" width="15" height="55" rx="1" />
+    <rect x="77" y="95" width="9" height="15" rx="1" />
+    
+    <!-- 中央の高いビル/タワー -->
+    <rect x="115" y="65" width="20" height="100" rx="2" />
+    <polygon points="125,50 135,65 115,65" />
+    
+    <!-- 右側ビル群 -->
+    <rect x="160" y="95" width="15" height="70" rx="1" />
+    <rect x="180" y="105" width="12" height="60" rx="1" />
+    <rect x="195" y="85" width="10" height="80" rx="1" />
+    
+    <!-- 伝統的な建物 -->
+    <path d="M92,120 L108,120 L108,165 L92,165 Z" />
+    <path d="M90,120 L110,120 L100,105 Z" />
+    
+    <path d="M140,110 L160,110 L160,165 L140,165 Z" />
+    <path d="M138,110 L162,110 L150,95 Z" />
+  </g>
+  
+  <!-- デジタル要素を表す線 -->
+  <g stroke="#6366F1" stroke-width="1" fill="none">
+    <path d="M40,145 C70,125 100,155 130,135 C160,115 190,145 220,125" stroke-dasharray="1,2" />
+    <path d="M40,155 C70,135 100,165 130,145 C160,125 190,155 220,135" stroke-dasharray="1,2" />
+    <circle cx="70" cy="130" r="3" fill="#6366F1" />
+    <circle cx="130" cy="140" r="3" fill="#6366F1" />
+    <circle cx="190" cy="150" r="3" fill="#6366F1" />
+    <circle cx="100" cy="160" r="3" fill="#6366F1" />
+    <circle cx="160" cy="120" r="3" fill="#6366F1" />
+  </g>
+  
+  <!-- 和の象徴：円と調和 -->
+  <circle cx="125" cy="125" r="55" fill="none" stroke="#4F46E5" stroke-width="1.5" opacity="0.4" />
+  
+  <!-- テキスト -->
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="125" y="190" font-size="14" fill="#1E293B" font-weight="bold">グローバル・ハーモニー・シティ</text>
+    <text x="125" y="208" font-size="10" fill="#475569">人と技術が共鳴する持続可能な未来都市</text>
+  </g>
+</svg>
