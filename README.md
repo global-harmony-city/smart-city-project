@@ -180,9 +180,41 @@
 
 新たなチームメンバーを随時募集中です。[Discussions](https://github.com/global-harmony-city/smart-city-project/discussions)で募集情報を確認してください。
 
+グローバル・ハーモニー・シティのREADMEファイルを拡張して、組織全体図や機能マップ情報を追加します。以下に、既存のREADMEに追加する内容を提案します。
+
 ## ライセンス
 
 このプロジェクトは[MITライセンス](LICENSE)の下で公開されています。
+
+## 補足資料
+
+グローバル・ハーモニー・シティ構想の詳細理解のため、以下の補足資料を提供しています。これらの図表は、プロジェクトの全体像と各機能の関連性を視覚的に表現したものです。
+
+### 組織構成と機能マップ
+
+以下のSVGファイルでは、自治体の組織構造や各機能の詳細を確認できます：
+
+1. **自治体職員向け組織構成図**  
+   [`docs/assets/organization/org-structure.svg`](docs/assets/organization/org-structure.svg)  
+   120名の最小実行チームによる8つの機能部門の構成と役割を示しています。
+
+2. **各機能部門の詳細ビジュアルガイド**
+   - 統治・行政機能: [`docs/assets/functional-maps/governance-admin.svg`](docs/assets/functional-maps/governance-admin.svg)
+   - インフラ・公共サービス: [`docs/assets/functional-maps/infra-public-services.svg`](docs/assets/functional-maps/infra-public-services.svg)
+   - 経済基盤: [`docs/assets/functional-maps/economic-foundation.svg`](docs/assets/functional-maps/economic-foundation.svg)
+   - 教育・人材育成: [`docs/assets/functional-maps/education-hr.svg`](docs/assets/functional-maps/education-hr.svg)
+   - 医療・健康: [`docs/assets/functional-maps/healthcare.svg`](docs/assets/functional-maps/healthcare.svg)
+   - コミュニティ・文化: [`docs/assets/functional-maps/community-culture.svg`](docs/assets/functional-maps/community-culture.svg)
+   - 安全・セキュリティ: [`docs/assets/functional-maps/safety-security.svg`](docs/assets/functional-maps/safety-security.svg)
+   - テクノロジー基盤: [`docs/assets/functional-maps/tech-foundation.svg`](docs/assets/functional-maps/tech-foundation.svg)
+
+3. **IT構成図**
+   - ITシステムアーキテクチャ: [`docs/assets/it-architecture/system-architecture.svg`](docs/assets/it-architecture/system-architecture.svg)
+   - Microsoft製品エコシステム構成: [`docs/assets/it-architecture/ms-ecosystem.svg`](docs/assets/it-architecture/ms-ecosystem.svg)
+
+### 歴史的リーダーシップモデル
+
+各機能部門は歴史上の著名なリーダーのリーダーシップスタイルを参考にしています。詳細は [`docs/leadership-models.md`](docs/leadership-models.md) を参照してください。
 
 ---
 
