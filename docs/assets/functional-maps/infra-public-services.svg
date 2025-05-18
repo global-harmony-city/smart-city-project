@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200" fill="none">
+  <!-- 背景 -->
+  <rect width="800" height="1200" fill="#F9FAFB"/>
+  
+  <!-- ヘッダー部分 -->
+  <rect x="50" y="30" width="700" height="100" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="70" font-family="sans-serif" font-size="28" font-weight="bold" fill="#4338CA" text-anchor="middle">グローバル・ハーモニー・シティ</text>
+  <text x="400" y="105" font-family="sans-serif" font-size="20" fill="#6366F1" text-anchor="middle">インフラ・公共サービスのビジュアルガイド</text>
+  
+  <!-- 基本コンセプト -->
+  <rect x="50" y="160" width="700" height="220" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="160" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="186" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">インフラ・公共サービスの基本コンセプト</text>
+  
+  <!-- コンセプト1 -->
+  <circle cx="170" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="170" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">調</text>
+  <text x="170" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">持続可能性</text>
+  <text x="170" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">地球環境と共生する</text>
+  <text x="170" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">循環型システム</text>
+  
+  <!-- コンセプト2 -->
+  <circle cx="400" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="400" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">智</text>
+  <text x="400" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">スマート統合</text>
+  <text x="400" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">テクノロジーと人間性の</text>
+  <text x="400" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">調和した共存</text>
+  
+  <!-- コンセプト3 -->
+  <circle cx="630" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="630" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">強</text>
+  <text x="630" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">レジリエンス</text>
+  <text x="630" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">危機に強く</text>
+  <text x="630" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">自己回復力のある基盤</text>
+  
+  <!-- インフラチーム構成図 -->
+  <rect x="50" y="410" width="700" height="200" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="410" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="436" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">インフラチーム構成（20名の専門家集団）</text>
+  
+  <!-- インフラ責任者 -->
+  <circle cx="400" cy="510" r="40" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="400" y="505" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2563EB" text-anchor="middle">インフラ</text>
+  <text x="400" y="525" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2563EB" text-anchor="middle">責任者(1)</text>
+  
+  <!-- エネルギー -->
+  <circle cx="150" cy="510" r="30" fill="#ECFDF5" stroke="#10B981" stroke-width="2"/>
+  <text x="150" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#047857" text-anchor="middle">エネルギー</text>
+  <text x="150" y="520" font-family="sans-serif" font-size="10" fill="#047857" text-anchor="middle">専門家(2)</text>
+  
+  <!-- 通信 -->
+  <circle cx="230" cy="510" r="30" fill="#FFFBEB" stroke="#F59E0B" stroke-width="2"/>
+  <text x="230" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#D97706" text-anchor="middle">通信</text>
+  <text x="230" y="520" font-family="sans-serif" font-size="10" fill="#D97706" text-anchor="middle">技術者(2)</text>
+  
+  <!-- 水資源 -->
+  <circle cx="310" cy="510" r="30" fill="#F0F9FF" stroke="#0EA5E9" stroke-width="2"/>
+  <text x="310" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0369A1" text-anchor="middle">水資源</text>
+  <text x="310" y="520" font-family="sans-serif" font-size="10" fill="#0369A1" text-anchor="middle">専門家(2)</text>
+  
+  <!-- 防災セキュリティ -->
+  <circle cx="490" cy="510" r="30" fill="#FEF2F2" stroke="#EF4444" stroke-width="2"/>
+  <text x="490" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#DC2626" text-anchor="middle">防災</text>
+  <text x="490" y="520" font-family="sans-serif" font-size="10" fill="#DC2626" text-anchor="middle">専門家(2)</text>
+  
+  <!-- 交通 -->
+  <circle cx="570" cy="510" r="30" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="570" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#7C3AED" text-anchor="middle">交通</text>
+  <text x="570" y="520" font-family="sans-serif" font-size="10" fill="#7C3AED" text-anchor="middle">専門家(2)</text>
+  
+  <!-- 廃棄物 -->
+  <circle cx="650" cy="510" r="30" fill="#F1F5F9" stroke="#64748B" stroke-width="2"/>
+  <text x="650" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#475569" text-anchor="middle">廃棄物</text>
+  <text x="650" y="520" font-family="sans-serif" font-size="10" fill="#475569" text-anchor="middle">専門家(2)</text>
+  
+  <!-- 都市計画 -->
+  <circle cx="330" cy="580" r="30" fill="#FDF4FF" stroke="#D946EF" stroke-width="2"/>
+  <text x="330" y="575" font-family="sans-serif" font-size="12" font-weight="bold" fill="#A21CAF" text-anchor="middle">都市計画</text>
+  <text x="330" y="590" font-family="sans-serif" font-size="10" fill="#A21CAF" text-anchor="middle">専門家(3)</text>
+  
+  <!-- インフラ保守 -->
+  <circle cx="400" cy="580" r="30" fill="#FFEDD5" stroke="#F97316" stroke-width="2"/>
+  <text x="400" y="575" font-family="sans-serif" font-size="12" font-weight="bold" fill="#C2410C" text-anchor="middle">インフラ</text>
+  <text x="400" y="590" font-family="sans-serif" font-size="10" fill="#C2410C" text-anchor="middle">保守(3)</text>
+  
+  <!-- 環境モニタリング -->
+  <circle cx="470" cy="580" r="30" fill="#F0FDF4" stroke="#22C55E" stroke-width="2"/>
+  <text x="470" y="575" font-family="sans-serif" font-size="12" font-weight="bold" fill="#15803D" text-anchor="middle">環境</text>
+  <text x="470" y="590" font-family="sans-serif" font-size="10" fill="#15803D" text-anchor="middle">モニタリング(1)</text>
+  
+  <!-- 接続線 -->
+  <line x1="360" y1="510" x2="340" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="440" y1="510" x2="460" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="180" y1="510" x2="200" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="260" y1="510" x2="280" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="520" y1="510" x2="540" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="600" y1="510" x2="620" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="400" y1="550" x2="400" y2="550" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="370" y1="565" x2="350" y2="565" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="430" y1="565" x2="450" y2="565" stroke="#3B82F6" stroke-width="1.5"/>
+  
+  <!-- 最小機能要件 -->
+  <rect x="50" y="640" width="700" height="260" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="640" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="666" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">最小機能要件（初期フェーズの実装）</text>
+  
+  <!-- 機能1 エネルギー -->
+  <rect x="70" y="690" width="200" height="90" rx="8" fill="white" stroke="#10B981" stroke-width="2"/>
+  <rect x="70" y="690" width="200" height="30" fill="#ECFDF5" rx="8"/>
+  <text x="170" y="710" font-family="sans-serif" font-size="14" font-weight="bold" fill="#047857" text-anchor="middle">マイクログリッド</text>
+  <text x="170" y="735" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">再生可能エネルギーベース</text>
+  <text x="170" y="755" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">太陽光+蓄電池システム</text>
+  <text x="170" y="775" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">エネルギー管理システム</text>
+  
+  <!-- 機能2 通信 -->
+  <rect x="300" y="690" width="200" height="90" rx="8" fill="white" stroke="#F59E0B" stroke-width="2"/>
+  <rect x="300" y="690" width="200" height="30" fill="#FFFBEB" rx="8"/>
+  <text x="400" y="710" font-family="sans-serif" font-size="14" font-weight="bold" fill="#D97706" text-anchor="middle">高速通信ネットワーク</text>
+  <text x="400" y="735" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">光ファイバー基幹ネットワーク</text>
+  <text x="400" y="755" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">公共Wi-Fiスポット</text>
+  <text x="400" y="775" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">IoTセンサーネットワーク</text>
+  
+  <!-- 機能3 水資源 -->
+  <rect x="530" y="690" width="200" height="90" rx="8" fill="white" stroke="#0EA5E9" stroke-width="2"/>
+  <rect x="530" y="690" width="200" height="30" fill="#F0F9FF" rx="8"/>
+  <text x="630" y="710" font-family="sans-serif" font-size="14" font-weight="bold" fill="#0369A1" text-anchor="middle">水循環システム</text>
+  <text x="630" y="735" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">雨水収集・貯留システム</text>
+  <text x="630" y="755" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">中水利用基本設備</text>
+  <text x="630" y="775" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">水質モニタリングシステム</text>
+  
+  <!-- 機能4 廃棄物 -->
+  <rect x="70" y="800" width="200" height="90" rx="8" fill="white" stroke="#64748B" stroke-width="2"/>
+  <rect x="70" y="800" width="200" height="30" fill="#F1F5F9" rx="8"/>
+  <text x="170" y="820" font-family="sans-serif" font-size="14" font-weight="bold" fill="#475569" text-anchor="middle">資源循環システム</text>
+  <text x="170" y="845" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">スマート分別収集</text>
+  <text x="170" y="865" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">コミュニティコンポスト</text>
+  <text x="170" y="885" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">リユース・リペアハブ</text>
+  
+  <!-- 機能5 交通 -->
+  <rect x="300" y="800" width="200" height="90" rx="8" fill="white" stroke="#8B5CF6" stroke-width="2"/>
+  <rect x="300" y="800" width="200" height="30" fill="#F5F3FF" rx="8"/>
+  <text x="400" y="820" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7C3AED" text-anchor="middle">スマートモビリティ</text>
+  <text x="400" y="845" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">自動運転シャトル</text>
+  <text x="400" y="865" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">スマート乗降ポイント</text>
+  <text x="400" y="885" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">モビリティアプリ</text>
+  
+  <!-- 機能6 防災 -->
+  <rect x="530" y="800" width="200" height="90" rx="8" fill="white" stroke="#EF4444" stroke-width="2"/>
+  <rect x="530" y="800" width="200" height="30" fill="#FEF2F2" rx="8"/>
+  <text x="630" y="820" font-family="sans-serif" font-size="14" font-weight="bold" fill="#DC2626" text-anchor="middle">災害対応システム</text>
+  <text x="630" y="845" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">緊急通信システム</text>
+  <text x="630" y="865" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">災害時電力バックアップ</text>
+  <text x="630" y="885" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">早期警戒・避難誘導</text>
+  
+  <!-- 住民との協創モデル -->
+  <rect x="50" y="930" width="700" height="240" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="930" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="956" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">住民との協創モデル</text>
+  
+  <!-- 中央円と接続線 -->
+  <circle cx="400" cy="1050" r="60" fill="#ECFDF5" stroke="#10B981" stroke-width="3"/>
+  <text x="400" y="1045" font-family="sans-serif" font-size="18" font-weight="bold" fill="#047857" text-anchor="middle">住民</text>
+  <text x="400" y="1065" font-family="sans-serif" font-size="14" fill="#047857" text-anchor="middle">共創パートナー</text>
+  
+  <!-- 情報共有 -->
+  <circle cx="250" cy="1000" r="40" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="250" y="995" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2563EB" text-anchor="middle">情報共有と</text>
+  <text x="250" y="1015" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2563EB" text-anchor="middle">透明性</text>
+  <line x1="290" y1="1010" x2="340" y2="1030" stroke="#3B82F6" stroke-width="2" stroke-dasharray="5 3"/>
+  
+  <!-- 参加とフィードバック -->
+  <circle cx="550" cy="1000" r="40" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="550" y="995" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7C3AED" text-anchor="middle">参加と</text>
+  <text x="550" y="1015" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7C3AED" text-anchor="middle">フィードバック</text>
+  <line x1="510" y1="1010" x2="460" y2="1030" stroke="#8B5CF6" stroke-width="2" stroke-dasharray="5 3"/>
+  
+  <!-- 共創 -->
+  <circle cx="250" cy="1100" r="40" fill="#FFFBEB" stroke="#F59E0B" stroke-width="2"/>
+  <text x="250" y="1095" font-family="sans-serif" font-size="14" font-weight="bold" fill="#D97706" text-anchor="middle">共創と</text>
+  <text x="250" y="1115" font-family="sans-serif" font-size="14" font-weight="bold" fill="#D97706" text-anchor="middle">当事者意識</text>
+  <line x1="290" y1="1090" x2="340" y2="1070" stroke="#F59E0B" stroke-width="2" stroke-dasharray="5 3"/>
+  
+  <!-- 教育 -->
+  <circle cx="550" cy="1100" r="40" fill="#FEF2F2" stroke="#EF4444" stroke-width="2"/>
+  <text x="550" y="1095" font-family="sans-serif" font-size="14" font-weight="bold" fill="#DC2626" text-anchor="middle">教育と</text>
+  <text x="550" y="1115" font-family="sans-serif" font-size="14" font-weight="bold" fill="#DC2626" text-anchor="middle">能力開発</text>
+  <line x1="510" y1="1090" x2="460" y2="1070" stroke="#EF4444" stroke-width="2" stroke-dasharray="5 3"/>
+  
+  <!-- タッチポイント例 -->
+  <rect x="50" y="1100" width="700" height="70" rx="10" fill="#ECFDF5" opacity="0.2" stroke="#10B981" stroke-width="1"/>
+  <text x="60" y="1125" font-family="sans-serif" font-size="12" font-weight="bold" fill="#047857">住民とのタッチポイント例:</text>
+  <text x="60" y="1145" font-family="sans-serif" font-size="12" fill="#047857">• マイエネルギーダッシュボード</text>
+  <text x="260" y="1145" font-family="sans-serif" font-size="12" fill="#047857">• シティコネクトアプリ</text>
+  <text x="450" y="1145" font-family="sans-serif" font-size="12" fill="#047857">• インフラプランニングワークショップ</text>
+  <text x="60" y="1165" font-family="sans-serif" font-size="12" fill="#047857">• ハーモニームーブ（モビリティアプリ）</text>
+  <text x="320" y="1165" font-family="sans-serif" font-size="12" fill="#047857">• セーフティハーモニー（防災アプリ）</text>
+  <text x="580" y="1165" font-family="sans-serif" font-size="12" fill="#047857">• コミュニティインフラファンド</text>
+</svg>
