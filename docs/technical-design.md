@@ -304,7 +304,7 @@ Microsoft Dataverseと SharePoint リストを組み合わせたデータ管理�
 
 ### リレーションシップ
 
-![エンティティリレーションシップ図](./assets/entity-relationships.png)
+![エンティティリレーションシップ図](./assets/entity-relationships.svg)
 
 1. **住民 - 申請**: 1対多（1人の住民が複数の申請を持つ）
 2. **住民 - コミュニティグループ**: 多対多（グループメンバーシップ中間テーブル経由）
