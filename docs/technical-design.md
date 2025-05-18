@@ -131,7 +131,7 @@ Microsoft 365およびMicrosoft Azureを中心とした構成を採用し、SaaS
 
 ### 認証・認可フロー
 
-![認証フロー図](./assets/auth-flow.png)
+![認証フロー図](./assets/auth-flow.svg)
 
 1. ユーザーは Microsoft Entra ID (旧 Azure AD) を使用して認証
 2. OAuth 2.0 / OpenID Connect プロトコルによる安全なアクセストークン発行
