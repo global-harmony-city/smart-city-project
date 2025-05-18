@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700" viewBox="0 0 800 700" fill="none">
+  <!-- 背景 -->
+  <rect width="800" height="700" fill="#F9FAFB"/>
+  
+  <!-- タイトル -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#111827">グローバル・ハーモニー・シティ データモデル</text>
+  <text x="400" y="80" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#4B5563">エンティティリレーションシップ図</text>
+  
+  <!-- 住民エンティティ -->
+  <rect x="100" y="150" width="200" height="180" rx="8" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <rect x="100" y="150" width="200" height="40" rx="8" fill="#DBEAFE"/>
+  <text x="200" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1E40AF">住民 (Resident)</text>
+  
+  <line x1="100" y1="190" x2="300" y2="190" stroke="#3B82F6" stroke-width="2"/>
+  <text x="110" y="210" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">🔑 ResidentId [GUID]</text>
+  <text x="110" y="230" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">DisplayName [テキスト]</text>
+  <text x="110" y="250" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">Email [メールアドレス]</text>
+  <text x="110" y="270" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">PhoneNumber [電話番号]</text>
+  <text x="110" y="290" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">Address [テキスト]</text>
+  <text x="110" y="310" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">AadObjectId [テキスト]</text>
+  
+  <!-- 申請エンティティ -->
+  <rect x="500" y="150" width="200" height="180" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/>
+  <rect x="500" y="150" width="200" height="40" rx="8" fill="#FDE68A"/>
+  <text x="600" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#92400E">申請 (Application)</text>
+  
+  <line x1="500" y1="190" x2="700" y2="190" stroke="#D97706" stroke-width="2"/>
+  <text x="510" y="210" font-family="Arial, sans-serif" font-size="12" fill="#92400E">🔑 ApplicationId [GUID]</text>
+  <text x="510" y="230" font-family="Arial, sans-serif" font-size="12" fill="#92400E">ResidentId [参照]</text>
+  <text x="510" y="250" font-family="Arial, sans-serif" font-size="12" fill="#92400E">ApplicationType [選択肢]</text>
+  <text x="510" y="270" font-family="Arial, sans-serif" font-size="12" fill="#92400E">Title [テキスト]</text>
+  <text x="510" y="290" font-family="Arial, sans-serif" font-size="12" fill="#92400E">Status [選択肢]</text>
+  <text x="510" y="310" font-family="Arial, sans-serif" font-size="12" fill="#92400E">SubmissionDate [日時]</text>
+  
+  <!-- コミュニティグループエンティティ -->
+  <rect x="100" y="400" width="200" height="180" rx="8" fill="#F0FDF4" stroke="#10B981" stroke-width="2"/>
+  <rect x="100" y="400" width="200" height="40" rx="8" fill="#D1FAE5"/>
+  <text x="200" y="425" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#047857">コミュニティグループ</text>
+  <text x="200" y="445" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#047857">(Community Group)</text>
+  
+  <line x1="100" y1="440" x2="300" y2="440" stroke="#10B981" stroke-width="2"/>
+  <text x="110" y="460" font-family="Arial, sans-serif" font-size="12" fill="#047857">🔑 GroupId [GUID]</text>
+  <text x="110" y="480" font-family="Arial, sans-serif" font-size="12" fill="#047857">Name [テキスト]</text>
+  <text x="110" y="500" font-family="Arial, sans-serif" font-size="12" fill="#047857">Description [複数行テキスト]</text>
+  <text x="110" y="520" font-family="Arial, sans-serif" font-size="12" fill="#047857">Category [選択肢]</text>
+  <text x="110" y="540" font-family="Arial, sans-serif" font-size="12" fill="#047857">OwnerResidentId [参照]</text>
+  <text x="110" y="560" font-family="Arial, sans-serif" font-size="12" fill="#047857">TeamsLink [URL]</text>
+  
+  <!-- イベントエンティティ -->
+  <rect x="500" y="400" width="200" height="180" rx="8" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+  <rect x="500" y="400" width="200" height="40" rx="8" fill="#EDE9FE"/>
+  <text x="600" y="425" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#6D28D9">イベント (Event)</text>
+  
+  <line x1="500" y1="440" x2="700" y2="440" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="510" y="460" font-family="Arial, sans-serif" font-size="12" fill="#6D28D9">🔑 EventId [GUID]</text>
+  <text x="510" y="480" font-family="Arial, sans-serif" font-size="12" fill="#6D28D9">Title [テキスト]</text>
+  <text x="510" y="500" font-family="Arial, sans-serif" font-size="12" fill="#6D28D9">Description [複数行テキスト]</text>
+  <text x="510" y="520" font-family="Arial, sans-serif" font-size="12" fill="#6D28D9">StartDateTime [日時]</text>
+  <text x="510" y="540" font-family="Arial, sans-serif" font-size="12" fill="#6D28D9">HostGroupId [参照]</text>
+  <text x="510" y="560" font-family="Arial, sans-serif" font-size="12" fill="#6D28D9">Location [テキスト]</text>
+  
+  <!-- メンバーシップエンティティ (中間テーブル) -->
+  <rect x="300" y="280" width="200" height="140" rx="8" fill="#FEE2E2" stroke="#EF4444" stroke-width="2"/>
+  <rect x="300" y="280" width="200" height="40" rx="8" fill="#FEE2E2"/>
+  <text x="400" y="305" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#B91C1C">グループメンバーシップ</text>
+  <text x="400" y="325" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#B91C1C">(Group Membership)</text>
+  
+  <line x1="300" y1="320" x2="500" y2="320" stroke="#EF4444" stroke-width="2"/>
+  <text x="310" y="340" font-family="Arial, sans-serif" font-size="12" fill="#B91C1C">🔑 MembershipId [GUID]</text>
+  <text x="310" y="360" font-family="Arial, sans-serif" font-size="12" fill="#B91C1C">ResidentId [参照]</text>
+  <text x="310" y="380" font-family="Arial, sans-serif" font-size="12" fill="#B91C1C">GroupId [参照]</text>
+  <text x="310" y="400" font-family="Arial, sans-serif" font-size="12" fill="#B91C1C">JoinDate [日時]</text>
+  
+  <!-- 施設エンティティ -->
+  <rect x="300" y="490" width="200" height="140" rx="8" fill="#E0F2FE" stroke="#0EA5E9" stroke-width="2"/>
+  <rect x="300" y="490" width="200" height="40" rx="8" fill="#BAE6FD"/>
+  <text x="400" y="515" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0369A1">施設 (Facility)</text>
+  
+  <line x1="300" y1="530" x2="500" y2="530" stroke="#0EA5E9" stroke-width="2"/>
+  <text x="310" y="550" font-family="Arial, sans-serif" font-size="12" fill="#0369A1">🔑 FacilityId [GUID]</text>
+  <text x="310" y="570" font-family="Arial, sans-serif" font-size="12" fill="#0369A1">Name [テキスト]</text>
+  <text x="310" y="590" font-family="Arial, sans-serif" font-size="12" fill="#0369A1">Capacity [数値]</text>
+  <text x="310" y="610" font-family="Arial, sans-serif" font-size="12" fill="#0369A1">IsActive [真偽値]</text>
+  
+  <!-- リレーションシップ線 -->
+  <!-- 住民 -> 申請 (1対多) -->
+  <line x1="300" y1="200" x2="500" y2="200" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,5"/>
+  <polygon points="495,195 505,200 495,205" fill="#4B5563"/>
+  <text x="400" y="190" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4B5563">1:n</text>
+  
+  <!-- 住民 -> グループメンバーシップ (1対多) -->
+  <line x1="200" y1="330" x2="200" y2="350" stroke="#4B5563" stroke-width="2"/>
+  <line x1="200" y1="350" x2="300" y2="350" stroke="#4B5563" stroke-width="2"/>
+  <polygon points="295,345 305,350 295,355" fill="#4B5563"/>
+  <text x="250" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4B5563">1:n</text>
+  
+  <!-- コミュニティグループ -> グループメンバーシップ (1対多) -->
+  <line x1="200" y1="400" x2="200" y2="380" stroke="#4B5563" stroke-width="2"/>
+  <line x1="200" y1="380" x2="300" y2="380" stroke="#4B5563" stroke-width="2"/>
+  <polygon points="295,375 305,380 295,385" fill="#4B5563"/>
+  <text x="250" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4B5563">1:n</text>
+  
+  <!-- コミュニティグループ -> イベント (1対多) -->
+  <line x1="300" y1="490" x2="300" y2="470" stroke="#4B5563" stroke-width="2"/>
+  <line x1="300" y1="490" x2="500" y2="490" stroke="#4B5563" stroke-width="2"/>
+  <polygon points="495,485 505,490 495,495" fill="#4B5563"/>
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4B5563">1:n</text>
+  
+  <!-- 住民 -> コミュニティグループ (オーナー) -->
+  <line x1="150" y1="330" x2="150" y2="540" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,5"/>
+  <polygon points="145,535 150,545 155,535" fill="#4B5563"/>
+  <text x="120" y="430" font-family="Arial, sans-serif" font-size="12" fill="#4B5563">オーナー</text>
+  
+  <!-- 凡例 -->
+  <rect x="50" y="650" width="700" height="40" rx="8" fill="#F3F4F6" stroke="#9CA3AF" stroke-width="1"/>
+  <text x="70" y="675" font-family="Arial, sans-serif" font-size="14" fill="#4B5563">凡例:</text>
+  <line x1="130" y1="675" x2="190" y2="675" stroke="#4B5563" stroke-width="2"/>
+  <polygon points="185,670 195,675 185,680" fill="#4B5563"/>
+  <text x="200" y="675" font-family="Arial, sans-serif" font-size="12" fill="#4B5563">1対多 (1:n)</text>
+  
+  <line x1="300" y1="675" x2="360" y2="675" stroke="#4B5563" stroke-width="2" stroke-dasharray="5,5"/>
+  <polygon points="355,670 365,675 355,680" fill="#4B5563"/>
+  <text x="370" y="675" font-family="Arial, sans-serif" font-size="12" fill="#4B5563">参照関係</text>
+  
+  <text x="470" y="675" font-family="Arial, sans-serif" font-size="12" fill="#4B5563">🔑 主キー</text>
+</svg>
