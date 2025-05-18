@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200" fill="none">
+  <!-- 背景 -->
+  <rect width="800" height="1200" fill="#F9FAFB"/>
+  
+  <!-- ヘッダー部分 -->
+  <rect x="50" y="30" width="700" height="100" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="70" font-family="sans-serif" font-size="28" font-weight="bold" fill="#4338CA" text-anchor="middle">グローバル・ハーモニー・シティ</text>
+  <text x="400" y="105" font-family="sans-serif" font-size="20" fill="#6366F1" text-anchor="middle">医療・健康システムのビジュアルガイド</text>
+  
+  <!-- 基本コンセプト -->
+  <rect x="50" y="160" width="700" height="220" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="160" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="186" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">医療・健康の基本コンセプト</text>
+  
+  <!-- コンセプト1 -->
+  <circle cx="170" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="170" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">先</text>
+  <text x="170" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">先防</text>
+  <text x="170" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">予防中心の健康文化</text>
+  <text x="170" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">病気になる前に対策</text>
+  
+  <!-- コンセプト2 -->
+  <circle cx="400" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="400" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">全</text>
+  <text x="400" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">全健</text>
+  <text x="400" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">全体論的ウェルビーイング</text>
+  <text x="400" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">心身と社会の健康の調和</text>
+  
+  <!-- コンセプト3 -->
+  <circle cx="630" cy="250" r="30" fill="#EEF2FF"/>
+  <text x="630" y="255" font-family="sans-serif" font-size="24" fill="#4338CA" text-anchor="middle">共</text>
+  <text x="630" y="300" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4338CA" text-anchor="middle">共護</text>
+  <text x="630" y="325" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">包括的ケアシステム</text>
+  <text x="630" y="340" font-family="sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">テクノロジーと人間性の融合</text>
+  
+  <!-- チーム構成図 -->
+  <rect x="50" y="410" width="700" height="280" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="410" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="436" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">医療・健康チーム構成（15名）</text>
+  
+  <!-- ヘルスケア責任者 -->
+  <circle cx="400" cy="510" r="40" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="400" y="505" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2563EB" text-anchor="middle">ヘルスケア</text>
+  <text x="400" y="525" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2563EB" text-anchor="middle">責任者(1)</text>
+  
+  <!-- 家庭医 -->
+  <circle cx="200" cy="510" r="30" fill="#F0FDF4" stroke="#10B981" stroke-width="2"/>
+  <text x="200" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#047857" text-anchor="middle">家庭医</text>
+  <text x="200" y="520" font-family="sans-serif" font-size="10" fill="#047857" text-anchor="middle">（総合診療医）(2)</text>
+  
+  <!-- 医療コーディネーター -->
+  <circle cx="600" cy="510" r="30" fill="#FEF2F2" stroke="#EF4444" stroke-width="2"/>
+  <text x="600" y="505" font-family="sans-serif" font-size="12" font-weight="bold" fill="#DC2626" text-anchor="middle">医療</text>
+  <text x="600" y="520" font-family="sans-serif" font-size="10" fill="#DC2626" text-anchor="middle">コーディネーター(2)</text>
+  
+  <!-- 遠隔医療システム専門家 -->
+  <circle cx="200" cy="600" r="30" fill="#F0F9FF" stroke="#0EA5E9" stroke-width="2"/>
+  <text x="200" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0369A1" text-anchor="middle">遠隔医療</text>
+  <text x="200" y="610" font-family="sans-serif" font-size="10" fill="#0369A1" text-anchor="middle">システム専門家(2)</text>
+  
+  <!-- 健康データアナリスト -->
+  <circle cx="300" cy="600" r="30" fill="#FDF4FF" stroke="#D946EF" stroke-width="2"/>
+  <text x="300" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#A21CAF" text-anchor="middle">健康データ</text>
+  <text x="300" y="610" font-family="sans-serif" font-size="10" fill="#A21CAF" text-anchor="middle">アナリスト(1)</text>
+  
+  <!-- 予防医療・公衆衛生専門家 -->
+  <circle cx="400" cy="600" r="30" fill="#FFFBEB" stroke="#F59E0B" stroke-width="2"/>
+  <text x="400" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#D97706" text-anchor="middle">予防医療</text>
+  <text x="400" y="610" font-family="sans-serif" font-size="10" fill="#D97706" text-anchor="middle">専門家(2)</text>
+  
+  <!-- 高齢者ケア専門家 -->
+  <circle cx="500" cy="600" r="30" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="500" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#7C3AED" text-anchor="middle">高齢者ケア</text>
+  <text x="500" y="610" font-family="sans-serif" font-size="10" fill="#7C3AED" text-anchor="middle">専門家(2)</text>
+  
+  <!-- メンタルヘルス専門家 -->
+  <circle cx="600" cy="600" r="30" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="600" y="595" font-family="sans-serif" font-size="12" font-weight="bold" fill="#1D4ED8" text-anchor="middle">メンタルヘルス</text>
+  <text x="600" y="610" font-family="sans-serif" font-size="10" fill="#1D4ED8" text-anchor="middle">専門家(1)</text>
+  
+  <!-- 健康増進プログラム開発者 -->
+  <circle cx="400" cy="660" r="30" fill="#ECFDF5" stroke="#10B981" stroke-width="2"/>
+  <text x="400" y="655" font-family="sans-serif" font-size="12" font-weight="bold" fill="#047857" text-anchor="middle">健康増進</text>
+  <text x="400" y="670" font-family="sans-serif" font-size="10" fill="#047857" text-anchor="middle">プログラム開発者(2)</text>
+  
+  <!-- 接続線 -->
+  <line x1="230" y1="510" x2="360" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="440" y1="510" x2="570" y2="510" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="400" y1="550" x2="400" y2="570" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="390" y1="560" x2="330" y2="585" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="410" y1="560" x2="470" y2="585" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="230" y1="600" x2="270" y2="600" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="330" y1="600" x2="370" y2="600" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="430" y1="600" x2="470" y2="600" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="530" y1="600" x2="570" y2="600" stroke="#3B82F6" stroke-width="1.5"/>
+  <line x1="400" y1="630" x2="400" y2="640" stroke="#3B82F6" stroke-width="1.5"/>
+  
+  <!-- 最小機能要件 -->
+  <rect x="50" y="720" width="700" height="280" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="720" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="746" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">最小機能要件</text>
+  
+  <!-- 機能1 スマートクリニック -->
+  <rect x="70" y="770" width="320" height="100" rx="8" fill="white" stroke="#10B981" stroke-width="2"/>
+  <rect x="70" y="770" width="320" height="30" fill="#ECFDF5" rx="8"/>
+  <text x="230" y="790" font-family="sans-serif" font-size="14" font-weight="bold" fill="#047857" text-anchor="middle">スマートクリニック</text>
+  <text x="85" y="815" font-family="sans-serif" font-size="12" fill="#6B7280">• AIアシスト診療と自動記録システム</text>
+  <text x="85" y="835" font-family="sans-serif" font-size="12" fill="#6B7280">• 予約最適化による待合不要の診療体験</text>
+  <text x="85" y="855" font-family="sans-serif" font-size="12" fill="#6B7280">• 身体・精神・社会的健康の統合的評価</text>
+  
+  <!-- 機能2 遠隔医療プラットフォーム -->
+  <rect x="410" y="770" width="320" height="100" rx="8" fill="white" stroke="#0EA5E9" stroke-width="2"/>
+  <rect x="410" y="770" width="320" height="30" fill="#F0F9FF" rx="8"/>
+  <text x="570" y="790" font-family="sans-serif" font-size="14" font-weight="bold" fill="#0369A1" text-anchor="middle">遠隔医療プラットフォーム</text>
+  <text x="425" y="815" font-family="sans-serif" font-size="12" fill="#6B7280">• いつでもどこでも医師に相談可能</text>
+  <text x="425" y="835" font-family="sans-serif" font-size="12" fill="#6B7280">• 世界中の専門医とのコンサルテーション</text>
+  <text x="425" y="855" font-family="sans-serif" font-size="12" fill="#6B7280">• AR/VRを活用した直感的な医療体験</text>
+  
+  <!-- 機能3 健康データ連携基盤 -->
+  <rect x="70" y="880" width="320" height="100" rx="8" fill="white" stroke="#EF4444" stroke-width="2"/>
+  <rect x="70" y="880" width="320" height="30" fill="#FEF2F2" rx="8"/>
+  <text x="230" y="900" font-family="sans-serif" font-size="14" font-weight="bold" fill="#DC2626" text-anchor="middle">健康データ連携基盤</text>
+  <text x="85" y="925" font-family="sans-serif" font-size="12" fill="#6B7280">• 住民が自分の健康データを所有・管理</text>
+  <text x="85" y="945" font-family="sans-serif" font-size="12" fill="#6B7280">• ウェアラブル・IoTデバイスとの連携</text>
+  <text x="85" y="965" font-family="sans-serif" font-size="12" fill="#6B7280">• AIによる健康予測と個別化アドバイス</text>
+  
+  <!-- 機能4 予防医療プログラム -->
+  <rect x="410" y="880" width="320" height="100" rx="8" fill="white" stroke="#D946EF" stroke-width="2"/>
+  <rect x="410" y="880" width="320" height="30" fill="#FDF4FF" rx="8"/>
+  <text x="570" y="900" font-family="sans-serif" font-size="14" font-weight="bold" fill="#A21CAF" text-anchor="middle">予防医療プログラム</text>
+  <text x="425" y="925" font-family="sans-serif" font-size="12" fill="#6B7280">• パーソナライズされた健康リスク評価</text>
+  <text x="425" y="945" font-family="sans-serif" font-size="12" fill="#6B7280">• ライフステージに合わせた予防アプローチ</text>
+  <text x="425" y="965" font-family="sans-serif" font-size="12" fill="#6B7280">• コミュニティ参加型の健康増進活動</text>
+  
+  <!-- 住民との関わり図 -->
+  <rect x="50" y="1030" width="700" height="140" rx="10" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="50" y="1030" width="700" height="40" rx="10" fill="#4F46E5" opacity="0.1"/>
+  <text x="400" y="1056" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4338CA" text-anchor="middle">住民とのタッチポイント</text>
+  
+  <!-- 中央円と接続線 -->
+  <circle cx="400" cy="1120" r="40" fill="#ECFDF5" stroke="#10B981" stroke-width="3"/>
+  <text x="400" y="1118" font-family="sans-serif" font-size="16" font-weight="bold" fill="#047857" text-anchor="middle">住民</text>
+  <text x="400" y="1135" font-family="sans-serif" font-size="12" fill="#047857" text-anchor="middle">健康の共創者</text>
+  
+  <!-- デジタル -->
+  <circle cx="200" cy="1120" r="30" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="200" y="1115" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2563EB" text-anchor="middle">デジタル</text>
+  <text x="200" y="1130" font-family="sans-serif" font-size="10" fill="#2563EB" text-anchor="middle">タッチポイント</text>
+  <line x1="230" y1="1120" x2="360" y2="1120" stroke="#3B82F6" stroke-width="1.5"/>
+  
+  <!-- フィジカル -->
+  <circle cx="600" cy="1120" r="30" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="600" y="1115" font-family="sans-serif" font-size="12" font-weight="bold" fill="#7C3AED" text-anchor="middle">フィジカル</text>
+  <text x="600" y="1130" font-family="sans-serif" font-size="10" fill="#7C3AED" text-anchor="middle">タッチポイント</text>
+  <line x1="440" y1="1120" x2="570" y2="1120" stroke="#8B5CF6" stroke-width="1.5"/>
+  
+  <!-- タッチポイント例 -->
+  <rect x="50" y="1180" width="700" height="70" rx="10" fill="#ECFDF5" opacity="0.2" stroke="#10B981" stroke-width="1"/>
+  <text x="60" y="1205" font-family="sans-serif" font-size="12" font-weight="bold" fill="#047857">主要タッチポイント例:</text>
+  <text x="60" y="1225" font-family="sans-serif" font-size="12" fill="#047857">• ハーモニーヘルスアプリ</text>
+  <text x="240" y="1225" font-family="sans-serif" font-size="12" fill="#047857">• ハーモニーヘルスハブ</text>
+  <text x="420" y="1225" font-family="sans-serif" font-size="12" fill="#047857">• ヘルスフェスティバル</text>
+  <text x="600" y="1225" font-family="sans-serif" font-size="12" fill="#047857">• シチズンヘルスラボ</text>
+  <text x="60" y="1245" font-family="sans-serif" font-size="12" fill="#047857">• バーチャルヘルスコーチ</text>
+  <text x="240" y="1245" font-family="sans-serif" font-size="12" fill="#047857">• コミュニティヘルスステーション</text>
+  <text x="470" y="1245" font-family="sans-serif" font-size="12" fill="#047857">• ケアサークル</text>
+  <text x="600" y="1245" font-family="sans-serif" font-size="12" fill="#047857">• ウェルネスセンター</text>
+</svg>
